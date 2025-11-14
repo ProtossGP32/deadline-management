@@ -231,6 +231,19 @@ Tasks must be splitted into smaller tasks to avoid _marrones_.
   - We end up wasting time in the end of the project with non-planned tasks and worries.
   - We are looking for a more plain project course.
 
+- Example: how not to be late to a critical appointment?
+  - Some actions to do:
+    - Get up sooner
+    - Shorten time dedicated to usual tasks
+    - Change transportation means
+  - This doesn't really work, because **any new change to a well known and tested plan will introduce uncertainty**!
+  - Longer duration doesn't ensure safer delivery!
+    - Longer duration leads to relaxation
+  - Shorter duration doesn't ensure faster delivery!
+    - Shorter duration leads to rushed executions and makes things worse
+
+> :information_source: **INTERMEDIATE DEADLINES ARE AS IMPORTANT AS THE FINAL DEADLINE!!**
+
 #### How to be efficient by planning
 
 ##### Critical path
@@ -522,9 +535,46 @@ Techniques:
 
 ## ProjectLibre tips
 
-### Changing resources view category
+### Changing project's schedule type
 
-![ProjectLibre - Hidden view change box][projectlibre-hidden-view-change-box]
+- Project information --> General:
+  - Forward scheduled: this allows to plan by defining the start of the project
+
+### Define available resources
+
+- Resources tab: define new resources (workers or material) on each row
+  - Type: used to calculate costs
+    - Work: cost by work hour
+    - Material: cost by unit (meters, items, etc...)
+  - Max. units (%): only applicable to Work type, percentage of work-day availablility of a person
+
+### Reports
+
+- Reports tab:
+  - Task information --> Columns:
+    - Cost: it acts as a budget report
+
+### Exploring available views
+
+- View tab --> Gantt:
+  - Histogram (upper-right icons): shows daily distribution of every resource in a calendar; it helps identifying overwork.
+    - You can change the information shown in the calendar by right-click this corner box:
+      ![ProjectLibre - Hidden view change box][projectlibre-hidden-view-change-box]
+
+### Tasks
+
+- Indent / outdent: it allows to apply the [WBS](#how-to-cover-a-large-project-work-breakdown-structure) principles to tasks by creating subgroups.
+- Intraphase / Extraphase dependencies: you can define different dependency relationships with the predecessor tasks:
+  - Naming goes like this: (XY), where X defines the Predecessor condition and Y the dependant task condition
+  - Double-click task --> Predecessors --> Type:
+    - FS (Finish-Start): Predecessor must finish so current task can start
+    - FF (Finish-Finish): Predecessor must finish so current task can finish
+    - SF (Start-Finish): Predecessor must start so current task can finish
+    - SS (Start-Start): Predecessor must start so current task can start
+- Assigning availability of resources on a per-task basis:
+  - Double-click task --> Resources tab --> "Assign resources" button:
+    - For each available resource, you can define its available _units_ in percentage (green resources are the ones already assigned to the task)
+    - Define 80% to account for the task margin; reduce the percentage for each unforeseeable risk that might occur.
 
 <!-- IMAGES -->
 [project-chronology]: /images/project_chronology.png
