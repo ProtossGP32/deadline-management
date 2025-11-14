@@ -120,6 +120,8 @@ Shared folder: [LINK](https://bit.ly/pmsharedfolder)
 
 #### Sequencing tasks (Network Diagram)
 
+> :warning: Not explained?
+
 #### Applicable graphic techniques
 
 - Gantt
@@ -129,10 +131,97 @@ Shared folder: [LINK](https://bit.ly/pmsharedfolder)
 
 - Duration estimation is different from work estimation!
 
+- Duration = Work + Margin
+  - Work: Time to do the task
+  - Margin: Time to do other things and be able to insert the taskin the schedule
+    - Margin is the hardest part to calculate and what makes the planning of a task fail
+- Inability to properly estimate work!
+  - We are trained to work asynchronously, so we always think there'll always be time to do tasks at any time
+
 ##### Contingency margin
+
+> :information_source: It should be included to accomodate **identified risks**, not to compensate for a lack of planning skills
 
 - This is a defense mechanism, it really doesn't work.
 - Risk estimation is already included in duration estimation
+
+> :information_source: **Hint:** when planning, assign 80% of availability to all your resources, this way you have a 20% of resource to accomodate them for uncertainty or unforeseen events.
+> - For each possible unforeseeable event or context switching a resource might be exposed to, reduce the maximum availability of that resource a little bit more.
+> - Think about the busiest time of the year and define max resources accordingly.
+
+- Example: try to define work and margin times for the following tasks:
+  - TASK 1: "Write a list of your 10 all time favourite movies"
+    - Work time: 1 hour
+    - Margin: 1 day?
+  - TASK 2: "Organize a birthday party for one of your teammates"
+    - Work time: ??
+    - Margin: ??
+
+The most important thing to take into account is **commitment**! Without it, we can't ensure the task will be done.
+
+Bad way to plan:
+- Go for the big picture
+- Break down into details
+
+It's the other way around!
+- Go for defining details
+- Then go for the whole picture
+
+> :information_source: **8-80 RULE:** Try to deliver the task between 1 day (8 hours) and 10 days (80 hours, 2 weeks).
+> - If a task is longer than this, then start splitting it! [WBS](#how-to-cover-a-large-project-work-breakdown-structure)
+> - **You need the feeling that at the end of the day, you've completed some tasks!**
+> - Using the 8-80 rule doesn't mean you can't fit multiple tasks in one single day, as long as (work + margin) sum of all of them fit in the 
+
+##### Historic experience
+
+Two kinds of historic experience:
+- **Technical:** the more you work on a particular type of work, the faster you should be able to do it and you'd be better at estimating the time it will take
+- **Context:** knowing the kind of environment you'll be working in allows you to better dimension the time it will take to execute tasks (interruptions, noisy environment, etc...)
+
+> :warning: **HOW TO DEAL WITH INTERRUPTIONS IN ONLINE MEETINGS?**
+> People aggressively interrupting while you're speaking, use diplomacy:
+> - Be polite but firm, setting meeting guidelines at the beginning of it and remind them to the interrupting people
+
+##### Setting the scope
+
+Example task: _Arrange the classrom properly, to get ready for the next training._
+
+- If the task is not properly specified, you have to improvise and then results won't match the client's expectations.
+
+> :information_source: **Definition of Done (DoD)**
+>
+> This includes all the requirements of a task that must be self-evaluated, and once all are completed we can consider the task as **DONE**.
+
+##### Delegation
+
+From full to none:
+- Full delegation
+- Decide, act and report
+- We decide together
+- Decide, I give the OK, and act
+- Do it more or less like this
+- Do it like this (micro-management)
+
+##### Responsibles
+
+> :warning: Every level of multitasking added to ourselves, we lose 1/3 of our efficiency
+
+**Ask yourself:** what's the level of multitasking you're comfortable with? How many tasks at the same time and what type?
+
+- The length of your acceptable pending/in progress task list should be short!
+- Task complexity must also be taken into account. Try to estimate task complexity to combine them more efficiently
+
+> :information_source: All your tasks lists should have assigned a limit of some kind (complexity, time, resources, etc...) so you don't overburden them and put them elsewhere (next week list, for example).
+
+**Wired article:**
+- Most of the tasks put on a list are done in 5 minutes and then marked as completed immediately.
+- Only the three top-most tasks are the ones progressing; the rest tend to stall
+
+> :warning: **More multitasking means more disruptions!**
+
+Tasks must be splitted into smaller tasks to avoid _marrones_.
+- The bigger the task is, the less probable to work on it.
+- When splitting it, don't overwhelm people with it! It would be the same as the big task.
 
 ### Planning #3: Tools and techniques to improve efficiency
 
@@ -156,7 +245,48 @@ Shared folder: [LINK](https://bit.ly/pmsharedfolder)
     - Careful with micro-managing it!!
   - Negotiate priorities on other tasks
 
-#### Techniques for delivering time before the delivery date
+##### Risk management
+
+Identify tasks with:
+- Zero experience
+- Risk time and cost estimations
+- No substitute resources
+- Multiple predecessors
+- Long duration: _marrones_
+
+Any combination of the previous tasks is a risk!
+
+Quantify the risk:
+- Probability: How probable it is to affect the plan?
+- Impact: What's the scope of its impact?
+- Trigger: combination of probability and impact, what wil make it happen
+
+Soften the risk:
+- Dissipate
+- Compensate
+- Alternative plan
+
+Control the risk:
+- ???
+
+Risk matrix:
+- Columns
+  - Risk
+  - Category
+  - Description
+  - Probability (1-3)
+  - Impact (1-3)
+  - Risk Level (P x I)
+  - Classification (High, Medium, Low)
+
+Example of risk management:
+- Organize an open house event at BSC
+
+Solution before, during and after the plan execution:
+- Don't try to improvise!! This should be the last resource
+- Dissipation: soften the execution of the tasks to reduce the impact if something goes wrong.
+
+#### Techniques for delivering before the delivery date
 
 - Be safe and realistic in times' tasks:
   - Ask for realistic time windows and dates (next Monday, etc...)
@@ -171,6 +301,26 @@ Shared folder: [LINK](https://bit.ly/pmsharedfolder)
   - Don't rush things, again make it safe
 - Contingency:
   - Careful with overspending!! Knowing the risks allows you to better dimension your needs.
+
+#### Planning methodologies
+
+##### Predictive method (classic way)
+- We work in a linear way and don't have margin of correction
+
+##### Agile planning
+- Iterative process, we can plan, execute and test it quickly, and when analysing it we can change things through feedback and start again.
+
+##### What to choose?
+- Predictive:
+  - Scenario: complicated
+  - Necessity: analise, understand, control
+  - Example: ???
+
+- Agile:
+  - Scenario: complex, vuca(?)
+  - Necessity: experiment, perceive, adapt
+  - Example: City traffic lights, too complex to properly regulate traffic jams
+  - The only way to solve things is trial-and-error
 
 #### Techniques to get cheaper projects
 
@@ -370,5 +520,12 @@ Techniques:
 - Ask AI to ask you questions to do something
   - Questions about the project: look for missing points in the project not covered yet.
 
+## ProjectLibre tips
+
+### Changing resources view category
+
+![ProjectLibre - Hidden view change box][projectlibre-hidden-view-change-box]
+
 <!-- IMAGES -->
 [project-chronology]: /images/project_chronology.png
+[projectlibre-hidden-view-change-box]: /images/hidden_view_change_box.png
