@@ -1,7 +1,12 @@
 # Time management and planning
 
-Trainer: Marc Ambit Fernández
-Mail: marcambit@gmail.com
+Trainers: 
+- Project management:
+  - Trainer: Marc Ambit Fernández
+  - Mail: marcambit@gmail.com
+- Time management skills:
+  - Trainer: Lourdes López Barbosa
+  - Mail: lourdes.
 
 ## Goals
 
@@ -500,6 +505,264 @@ Techniques:
 
 
 ### Time management and self-efficacy #1
+#### Goals
+- Raise conciousness about how we manage our time and what we can do differently to:
+  - Live our day to day witgh less stress
+  - Gain effectiveness with the same resources
+- Identify what behaviours/attitudes kae us less efficient when it comes to managing your time
+
+#### Exercise
+- To-Do list:
+  - Read mails: DONE
+  - Read Slack messages: DONE
+  - Check project's infrastructure status: PENDING
+  - Check internal infrastructure status: PENDING
+  - Check CI/CD status: PENDING
+  - Video editing: PENDING
+  - Work on internal platform deployment: PENDING
+  - Work on woffu-client: PENDING
+
+#### Can we manage time?
+> :information_source: Time can't be managed! We manage what we do with time (taks, life, events, etc...)
+
+Every day we have 1440 minutes:
+- How many of them do we give away?
+- ... do we throuw away?
+- ... are stolen from us?
+- ... do we let others steal from us?
+
+> :warning: **I HAVE NO TIME**: that's a false statement. We dedicate time to something else or don't put enough time to that particular task.
+
+Two main points:
+1. Being busy is not the same as being **effective**
+2. Shift focus from activities to **results**
+
+When feeling that we're not in control fo what
+
+##### Work smarter, not harder
+
+We need to switch off the "Auto-pilot", start making decisions conciously:
+- Be conscious when you interrupt your focus on your work to answer a colleague's question
+- Be conscious when you decide not to answer anyone when you've stated your indisponibility in your communication channels
+
+You have to weigth the cost of these decisions.
+
+##### Myth of activism
+> :warning: __"Being busy is not the same as being effective"__
+
+We have to reflect on what that task that is keeping us busy is leading us:
+- This task is preventing us to think about other things
+- We can analyse how the task is being done to improve it and make us less busy
+
+##### Myth of control
+> :warning: __"If you want things to happen, do it yourself"__
+
+Bad sentencies:
+- _It takes me less time to do it myself than explaining it to you_
+- _If others do things instead of me, they won't do it the way I want_
+
+This doesn't help the team to develop and grow, they will always depend on you.
+
+We need to **deletage**, small steps to let things go. Accept that not everything has to be done your way or results you like.
+
+##### Myth of information
+> :warning: __"Without information, we cannot decide."__
+
+We can move forward in our tasks without having to wait for other's input or data. Just put placeholders for these pending data.
+
+Don't wait for the perfect, ideal situation for us to keep working. It's better to have something done than nothing at all.
+
+##### Myth of workload
+
+> :warning: **The results we obtain are directly proportional to the amount of time we dedicate to the task.**
+
+That's not true:
+- Quality time: investing time improving processes can save us time in the future and avoid repeating the same monotonous tasks. A small task can lead to better quality time in the long term.
+- Being conscious of how effective we are being with a task: we shall know when to pause from that task and do something different, and getting back to it (i.e: _am I using my time well?_).
+- Creative tasks and time: 
+- Having long To-Do lists can make you anxious and block us from doing any task:
+
+##### Myth of urgency
+
+> :warning: **The unexpected needs to be resolved immediately**
+
+When something unexpected happens, we emotionally react and focus all our attention to it.
+
+We need to go the other way around:
+- Analyse it
+- Decide the priority of this unexpected issue compared to your own tasks
+
+What's the meaning of urgency for everyone?
+- We're managing emotions, and that's very contagious
+- Everybody rushes when not understanding the importance of that crisis
+- This doesn't mean we have to stop our tasks to reduce nervousness of the rest of the people
+
+##### Myth of the open door
+
+> :warning: **We must be always available for everybody.**
+
+False! What we need to do is **negotiate** with the other people on your needs and theirs:
+- Concious decision
+- Give options
+- Help people: yes, attending people: yes, but not always because constant interruption of your work is bad for you
+- 95% of people can wait.
+
+#### Time wasters
+
+> :information_source: **_"The main time waster is our own mind."_**
+
+##### Internal wasters:
+These come from our own minds. 
+
+- Unclear or undefined goals:
+  - The worst use of time is to do very well things that aren't that relevant or are unnecessary. 
+  - Don't lose sight of the **goal**!
+  - We usually mistake **tasks** with **goals**
+  - We need to understand if **tasks** are that critical
+    - I.e: _Coordinating_ is a **tasks**, not a **goal**
+    - We might be able to find other tasks or ways to do things that leads us equally to the final goal
+  - **Pareto's principle:** 20% effort leads to 80% results
+  - Quality decisions, not quantity!
+  - What things make sense to do today and what don't?
+    - What are the critical ones?
+    - What are not required now?
+  - Stating daily goals help us being less exposed on divert too much from them.
+    - We can clearly delay other's requests without doubts.
+  - Exercise: decide your "_super-objective of the day_":
+    - **Marc:** finish video editing so it doesn't chase you afterwards
+  - Short-term requests with a quick time reaction make us act only reactively; this affects negatively on your performance
+    - We need to find ways to balance them with our priorities and tasks, like delegating whenever we can
+    - **This can't be the norm!** When we plan, we need to plan realistically
+    - Not all the time of the day is ours, we need to be aware of this to ancticipate unforeseen things
+    - **A To-Do list is not a Planning list!**
+      - A To-Do list is a living list without priorities
+- Procrastination:
+  - TBD
+- Multitasking habits:
+  - TBD
+- Not able to say NO:
+  - TBD
+- Lack of motivation:
+  - TBD
+- Precarious planning:
+  - Bad planning is counterproductive
+    > :information_source: 10% of planning save 90% of execution time!
+  - Planning gives you clarity of mind when executing tasks, then it's very clear what's your path and how to deal with the rest of tasks
+    > :information_source: **_"Focus on what you want your day to become"_**
+  - How to improve your planning:
+    - Start by assuming that **you don't have 8 hours a day for you**!
+    - Organize your tasks based on your available time slots (1 hour, 2 hours, 30 minutes...) on each day (Monday, Tuesday, Thursday, etc...)
+    - Account for the probability of interruptions on each time slot and see if your tasks fit on them
+    - In the end, **each day might have assigned 1 or 2 realistic tasks**
+    > :warning: **TODO: Add a picture of a day timetable split into available time slots** 
+    - We'll be able to **negotiate** the really critical need of external interruptions
+    - Also take into account your own energy levels during the day: see what levels of energy do your tasks need and what's the best moment of the day to tacke them
+    - **USE AN AGENDA!!** The idea is to put things you've made the decision to do (conciousness)
+    - At the end of the day, make a To-Do list for the next day
+      - This clears your mind for the rest of the day. Since it's already organized, you don't have to think about it anymore
+    - Spend the last hour of the week planning the next week
+      - Decide what should be done next week, trying to think when it would be the best time slots; this also helps negotiating tasks with others
+    - The more visibility you give others of yourself, the better time management others and you will have.
+      > :information_source: **Be concise and specific about the expected timings of your demands to others so they can fit it into their own agenda!**
+
+      This avoids others stressing out and pressing you without any need. Calls and interruptions that take you and others time.
+      - Example: mail with ASAP in it
+        - Option 1: don't tackle it. The sender will keep pushing you if no news are sent
+        - Option 2: ask for concrete times. Make it visible for the sender when you'll be available for that task (i.e: _The sooner I can have it is next Thursday_)
+    - Point out completed tasks
+      - It gives you sense of control, dopamine and time management skill gain
+    - Prioritize task orders:
+      > :information_source: _There's never enough time to do everything, but there's always enough time to do **the most important thing.**_
+      - Exercise: do an estimation of the duration of your tasks:
+        - Mail reading: 15 minutes
+        - Replying mails: 30 minutes
+        - Read Slack messages: 10 minutes
+        - Check project's infrastructure status: 30 minutes
+        - Solve project's infrastructure issues: 1 hour and a half
+        - Check internal infrastructure status: 30 minutes
+        - Solve project's infrastructure issues: 1 hour and a half
+        - Check CI/CD status: 10 minutes
+        - Solve CI/CD issues: 1 hour
+        - Video editing: 4 hours
+        - Work on internal development platform: 2 hours
+        - Work on woffu-client: 1 hour
+        - **TOTAL:** X hours
+      - Use the **Eisenhoure matrix** to set priorities to tasks and how to cope with them:
+        > :warning: **TODO: Attach an image of the Eisenhower matrix** 
+        - :red_square: Do (Important + Urgent) --> **Fire fighting**
+          - Crises
+          - Pressing prolemes
+          - Projectws with deadlines
+          > Analyze first, act now
+        - :green_square: Decide (schedule) (Important + Not Urgent) --> **Quality time**
+          - Productive activities
+          - Capability improvement
+          - Relationship building
+          - Recognizing opportunities
+          - Planning, recreation
+          > Take your time planning them and find the exact moment to do it
+        - :blue_square: Delegate (Not important + Urgent) --> **Distraction**
+          - Interruptions
+          - Some email, some reports
+          - Some meetings
+          - Proximate, pressing matters
+          - Popular activities
+          > Decide if you dedicate your time to this or delegate them.
+          >
+          > **Two-minutes rule:** if it can be done in that amount of time, do it; else, delegate.
+          >
+          > **Isolate tasks:** Determine communication channels based on urgency and be pedagogical with your team members about this; let them know so they respect your time.
+          >
+          > Example: urgent things --> Call. Not urgent things --> Mail. Decide with what periodicity should you check those based on their urgency level.
+        - :orange_square: Delete (Not important + Not urgent) --> **Time wasting**
+          - Trivia
+          - Some email
+          - Some phone calls
+          - Time wasters
+          - Pleasant activities
+          > Don't do them
+        > :information_source: **DEFINITION OF URGENT TASK:** concious decision of what's the best time to tacke a job thinking on the time you need to do a good job within its deadline.
+        >
+        > :information_source: **DEFINITION OF IMPORTANT TASK:** awareness of criticallity of tasks that either block other tasks or are mandatory for the project's goal or improve productivity.
+- Project leaders/Team leaders, etc... must define guidelines, ensure punctuality, set limits, and make people accountable for not following the rules all the team agreed on, and that this has consequences.
+  - Be strict when rules aren't abided by.
+- If the company doesn't have any kind of protocol for leading projects and tasks, then **do it yourself and try to set some standard.**
+
+##### External wasters:
+- Unproductive meetings, interruptions
+
+#### Wrapping up
+
+- Setting objectives
+- Planning
+- Prioritizing tasks --> Being aware of the criteria, the important things (_super-objective of the day_)
+- Programming, scheduling --> When things make sense to happen in terms of time slots, similar tasks, more efficient, same brain activity tasks, etc...
+  - How can we improve time assestment of tasks? By experience.
+    > :information_source: **"TIME BOXING" TECHNIQUE:** Make a guess about how much time a task takes; then make the task and compare the real time with the estimation and learn from it for future plans. This makes us better and better at estimating time.
+    >
+    > This also helps discovering what tasks that are cumbersome for us might be the quickest ones to complete and better plan after that.
+- Protect your plan by setting limits --> Learn to say 'No' and do pedagogy about this, so others understand everybody's time usage.
+  - Learn when there are better ways to do things, like meetings that might be done through mails.
+  - Learn how to **set time limits between meetings** in order to organize your notes and ideas before tackling a different issue.
+  - Explain others when is the best moment for you to address others' issues.
+  - **Give options to other people** so they can choose if you're not available:
+    - _I have this --> I offer you this_
+  - Minimum unit to protect --> Task
+- **Avoid multitasking!** Isolate yourself during your task
+  - Example: put the phone in your drawer, silence any notifications, etc... You decide when you go look at them
+  > :information_source: **"POMODORO" TECHNIQUE:** Set yourself time slots where you solely focus on that job in order to have it DONE.
+  >
+  > Protocols can also be set to find time windows for helping others.
+- **Be always aware that you take conscious decisions!**
+- Procrastination: leaving things undone for tomorrow is not procrastination, is precarious planning!
+  - Procrastination is dragging a task during a long time without doing it, and ask yourself if this really needs to be done
+  > :information_source: **"CHEESE" TECHNIQUE:** Instead of addressing the whole task, just _take a bite_ of it. Program some time to ask others about their experience about these kind of tasks (and this is a task itself).
+  >
+  > It is demonstrated that 50% of the time is destined to do the first step. Make it easier for you to make this first step or, always. The brain only changes by repetition, doing feasible things and repeating it. Ensure persistence and eliminate obstacles.
+
+
+
+#### Initial points of the session
 
 - Beliefs associated to time management that make us being less efficient
 - The thieves of time - identify and fight them
@@ -515,6 +778,10 @@ Techniques:
 - Set limits - Learn to say 'no'
 - How to optimize time of meetings
 - Coping with procrastination
+
+#### Bibliography
+
+- _Atomic habits_
 
 ---
 ---
